@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "orvythmc.sadhost.com",
-    "port": 27778,
+    "ip": "AppleMinecraftMCPE.aternos.me",
+    "port": 30844,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "DarkZyroxback"
     },
     "anti-afk": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to Nope editz!",
+        "Anay is pro"
       ]
     },
     "chat-log": true,
